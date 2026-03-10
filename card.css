@@ -1,0 +1,68 @@
+.container{
+	padding:20px;
+	display:flex;
+	justify-content:space-around;
+	width:auto;
+	height:auto;
+	color:#2b2839;
+	margin:40px auto;
+	text-align:left;
+	box
+}
+body{
+	margin:20px;
+	font-family:Verdana;
+	background:#ddebf8;	
+	border-top:4px solid #d8cefe;
+	border-bottom:4px solid #d8cefe;
+}
+.pic{
+	width:150px;
+}
+/*.points{
+	margin-top:20px;
+	margin-left:40px;
+	margin-right:50px;
+}*/
+#git{
+	position:fixed;
+	bottom:20px;
+	right:50px;
+	z-index:1000;
+	padding:15px;
+	border-radius:20px;
+	font-family:Verdana;
+	background-color:#FF6EC7;
+	font-weight:bold;
+	box-shadow:0 8px 16px 0 black;
+	cursor:pointer;
+}
+#lin{
+	position:fixed;
+	bottom:20px;
+	right:175px;
+	z-index:1000;
+	padding:15px;
+	border-radius:20px;
+	font-family:Verdana;
+	background-color:#FF6EC7;
+	font-weight:bold;
+	box-shadow:0 8px 16px 0 black;
+	cursor:pointer;
+}
+ul{
+	list-style:disc outside;
+}
+.img-container{
+	display:flex;
+	overflow-x:auto;
+	white-space:nowrap;
+	gap:10px;
+	height:400px;
+}
+.img-container img{
+	flex-shrink:0;
+	height:100%;
+	width:auto;
+	border-radius:auto;
+}
