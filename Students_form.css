@@ -1,0 +1,55 @@
+/* .elements{
+    display: flex;
+    flex-direction: row;
+    margin: 100px 0px;
+    align-items: center;
+    box-shadow:0 8px 16px 0 whitesmoke;
+}
+
+.mulish-form {
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: bold;
+}
+body{
+  font-family: "Mulish", sans-serif;
+  font-size: 40px;
+  color:whitesmoke;   
+  background-color: bisque;
+}
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  box-shadow:0 8px 16px 0 whitesmoke;
+  background: #FDFB06;
+  padding: 10px 30px;
+  font-family: "Mulish", sans-serif;
+  font-size: 20px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+input[type="text"],[type="tel"],[type="number"],[type="date"]{
+    width: 300px;
+    height: 50px;
+    font-family: "Mulish", sans-serif;
+    font-size: 26px;
+} */
+ /* *{
+  padding: 0;
+  margin: 0;
+ } */
+
+ .container{
+  text-align : center;
+  margin: 40px auto;
+ }
+
+ table{
+
+  text-align: center;
+ }

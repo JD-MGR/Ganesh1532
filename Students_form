@@ -1,0 +1,96 @@
+
+<html>
+    <head>
+        <title>College Registration Form</title>
+      <link rel="stylesheet" href="Students_form.css">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    </head>
+    <body> 
+       <div class="container">  
+      <h1>Code Mania Registration</h1>
+    <!-- <form action="submit" method="post">
+      <div class="elements"><label>Name </label><input type="text" name="name"></div>
+       <div class="elements"><label>Date of Birth  </label><input type="date" name="dob"></div>
+       <div class="elements"><label>Address </label><textarea></textarea></div>
+       <div class="elements"><label>Phone </label><input type="tel" name="phno"></div>
+       <div class="elements"><label>Total Marks </label><input type="number" name="marks"></div>
+       <div class="gender"><label>Gender </label><input type="radio" name="gender" value="male">Male
+       <input type="radio" name="gender" value="female">Female
+       </div>
+       <div class="elements"><label>College Name </label><input type="text" name=clg></div>
+       <div class="elements"><label>Country </label><input type="text"></div>
+       <div class="elements"><label>Department </label>
+        <select name ="Department">
+          <option value="">Select Department</option>
+         <option value="ece">Electronics and Communication</option>
+         <option value="it">Information Technology</option>
+         <option value="cs">Computer Science</option>
+         <option value="eee">Electrical and Electronics</option>
+         </select>
+        </div>
+       <div class="elements"><label>Year </label><input type="number" name="year"></div>
+       <div class="elements"><button>Submit</button></div>
+    </form> -->
+<center>
+      <table>
+        <tr>
+          <td>Student Name</td>
+          <td><input type="text" name="name" placeholder="Enter Your Name"></td>
+        </tr>
+        <tr>
+          <td>Student ID</td>
+          <td><input type="text" name="id" placeholder="Enter ID"></td>
+        </tr>
+        <tr>
+          <td>Department</td>
+          <td><select name="dept" id="">
+            <option value="">Select Department</option>
+            <option value="">Electrical and ELectronics</option>
+            <option value="">Computer Science</option>
+            <option value="">Information Technology</option>
+            <option value="">Artificial Intelligence</option>
+            <option value="">Electrical Engineering</option></select></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
+      </center>
+    </div>
+    </body>
+</html>
